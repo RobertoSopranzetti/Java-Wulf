@@ -16,3 +16,7 @@ bin/
 Scoreboard.txt
 
 .DS_Store
+
+# Claude Code
+.claude/
+CLAUDE.md
